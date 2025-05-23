@@ -1,2 +1,2 @@
 # Resume-Job-Match
-Project made for NLP Lab session
+This project is an implementation of resume similarity matching with candidate-job postings. The embeddings are generated using MiniLM as well as BERT for both these metrics and comparison is done using a MLP neural network. The general objective is to obtain interpretable vector representations of resumes and job postings such that similarity can be calculated and additional predictive modeling can be based upon.
