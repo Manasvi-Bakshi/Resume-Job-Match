@@ -1,6 +1,6 @@
-# 🔍 SmartHire Match: Resume & Job Matching 
+# 🔍 SmartHire: Resume & Job Matching 
 
-Welcome to SmartHire Match — a project built to explore how we can use NLP techniques to smartly pair resumes with the right job descriptions. Think of it as the brain behind smarter hiring tools, built as part of my NLP lab project.
+Welcome to SmartHire, a project built to explore how we can use NLP techniques to smartly pair resumes with the right job descriptions. Think of it as the brain behind smarter hiring tools, built as part of my NLP lab project.
 
 ##  Dataset 
 
