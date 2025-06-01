@@ -2,7 +2,7 @@
 
 Welcome to SmartHire Match — a project built to explore how we can use NLP techniques to smartly pair resumes with the right job descriptions. Think of it as the brain behind smarter hiring tools, built as part of my NLP lab project.
 
-## 📂 Dataset 
+##  Dataset 
 
 We use a structured dataset (`resume_data.csv`) with:
 
@@ -13,7 +13,7 @@ We use a structured dataset (`resume_data.csv`) with:
 This dataset was first used at Bitfest 2025 Datathon and is available via Kaggle.
 Here is the [link](https://www.kaggle.com/datasets/saugataroyarghya/resume-dataset) to the dataset and thank you 
 
-## 🚀 What This Project Does  
+##  What This Project Does  
 
 Here's what we explored:
 
@@ -23,7 +23,7 @@ Here's what we explored:
 - Compared model variants to see what works best
 - Evaluated performance with real metrics
 
-## 📊 Evaluation Results  
+##  Evaluation Results  
 
 | Model                    | MAE    | MSE    | R² Score | Pearson Corr | Spearman Corr |
 |-------------------------|--------|--------|-----------|----------------|-----------------|
@@ -33,7 +33,7 @@ Here's what we explored:
 
 ---
 
-## 🧪 Getting Started in Colab  
+##  Getting Started in Colab  
 
 1. Upload your `kaggle.json` API key when prompted  
 2. Run the notebook – it’ll handle everything else:  
