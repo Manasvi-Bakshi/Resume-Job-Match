@@ -4,18 +4,16 @@ Welcome to SmartHire, a project built to explore how we can use NLP techniques t
 
 ##  Dataset 
 
-We use a structured dataset (`resume_data.csv`) with:
+This dataset was first used at Bitfest 2025 Datathon and is available via Kaggle.
+Here is the [link](https://www.kaggle.com/datasets/saugataroyarghya/resume-dataset) to the dataset and thank you 
+The structured dataset (`resume_data.csv`) contains:
 
 - 9,544 resumes  
 - 35 columns including skills, education, experience, and job postings  
 - A special `matched_score` field that indicates how well each resume aligns with a job  
 
-This dataset was first used at Bitfest 2025 Datathon and is available via Kaggle.
-Here is the [link](https://www.kaggle.com/datasets/saugataroyarghya/resume-dataset) to the dataset and thank you 
 
-##  What This Project Does  
-
-Here's what we explored:
+##  Project Implementation
 
 - Created **text embeddings** for resumes and job descriptions using **MiniLM** and fine tuned **BERT**
 - Trained a **neural network (MLP)** to predict how well a resume matches a job
@@ -33,7 +31,7 @@ Here's what we explored:
 
 ---
 
-##  Getting Started in Colab  
+##  Running this on Colab  
 
 1. Upload your `kaggle.json` API key when prompted  
 2. Run the notebook – it’ll handle everything else:  
