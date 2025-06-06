@@ -5,7 +5,8 @@ Welcome to SmartHire, a project built to explore how we can use NLP techniques t
 ##  Dataset 
 
 This dataset was first used at Bitfest 2025 Datathon and is available via Kaggle.
-Here is the [link](https://www.kaggle.com/datasets/saugataroyarghya/resume-dataset) to the dataset and thank you 
+Here is the [link](https://www.kaggle.com/datasets/saugataroyarghya/resume-dataset) to the dataset and big Thank You! for providing the dataset.
+
 The structured dataset (`resume_data.csv`) contains:
 
 - 9,544 resumes  
